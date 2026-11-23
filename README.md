@@ -17,3 +17,16 @@ Category Filtering: Filter expenses based on categories.
 Expense Summary: View total expenses and transaction count.
 
 JSON Storage: Store expense information locally in a JSON file.
+🛠️ Technologies Used
+
+Python 3.10+
+
+Flask
+
+RESTful API
+
+JSON
+
+Postman
+
+Visual Studio Code
